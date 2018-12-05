@@ -34,49 +34,49 @@
 <body>
   <div class="container">
     <div class="item level-1">
-      <img src="img/landing.jpg" alt="">
+      <img src="landing.jpg" alt="">
     </div>
     <div class="item level-2">
-      <img src="img/tshirt.jpg" alt="">
+      <img src="tshirt.jpg" alt="">
     </div>
     <div class="item level-3">
-      <img src="img/house.jpg" alt="">
+      <img src="house.jpg" alt="">
     </div>
     <div class="item level-1">
-      <img src="img/landing.jpg" alt="">
+      <img src="landing.jpg" alt="">
     </div>
     <div class="item level-2">
-      <img src="img/tshirt.jpg" alt="">
+      <img src="tshirt.jpg" alt="">
     </div>
     <div class="item level-3">
-      <img src="img/house.jpg" alt="">
+      <img src="house.jpg" alt="">
     </div>
     <div class="item level-1">
-      <img src="img/landing.jpg" alt="">
+      <img src="landing.jpg" alt="">
     </div>
     <div class="item level-2">
-      <img src="img/tshirt.jpg" alt="">
+      <img src="tshirt.jpg" alt="">
     </div>
     <div class="item level-3">
-      <img src="img/house.jpg" alt="">
+      <img src="house.jpg" alt="">
     </div>
     <div class="item level-1">
-      <img src="img/landing.jpg" alt="">
+      <img src="landing.jpg" alt="">
     </div>
     <div class="item level-2">
-      <img src="img/tshirt.jpg" alt="">
+      <img src="tshirt.jpg" alt="">
     </div>
     <div class="item level-3">
-      <img src="img/house.jpg" alt="">
+      <img src="house.jpg" alt="">
     </div>
     <div class="item level-1">
-      <img src="img/landing.jpg" alt="">
+      <img src="landing.jpg" alt="">
     </div>
     <div class="item level-2">
-      <img src="img/tshirt.jpg" alt="">
+      <img src="tshirt.jpg" alt="">
     </div>
     <div class="item level-3">
-      <img src="img/house.jpg" alt="">
+      <img src="house.jpg" alt="">
     </div>
   </div>
 </body>
